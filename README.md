@@ -1,0 +1,2 @@
+# ToyNeuralNetwork
+Simple neural network
